@@ -14,7 +14,7 @@ TorFi is a bash script for Configure your Raspberry Pi 3 B/B+ as an Anonymous Wi
 
 * PowerBank/Charger : [Amazon](http://amzn.in/fE4JBeA)
 
-* HDMI Cable : [Amazon]()
+* HDMI Cable : [Amazon](https://www.amazon.in/b?node=1388893031)
 
 * PC/Laptop : [Amazon](https://www.amazon.in/b?node=1375424031)
 
@@ -36,7 +36,7 @@ First Download [Raspbian OS](https://www.raspberrypi.org/downloads/raspbian/) fo
 
 That's It !!! Enjoy Anonymous WiFi Hotspot..
 
-YouTube Tutorial : Soon
+YouTube Tutorial : 
 
 if you face any question or any problem in this process feel free to ask.. :)
 
