@@ -16,7 +16,7 @@ echo -e """${GREEN} ______   ______     ______     ______   __
    \ \_\  \ \_____\  \ \_\ \_\  \ \_\    \ \_\ 
     \/_/   \/_____/   \/_/ /_/   \/_/     \/_/ 
 ${NC}"""
-echo -e "${RED}This Tool Must Run As ROOT | https://linktr.ee/thehackingsage${NC}"
+echo -e "${RED}This Tool Must Run As ROOT | https://thehackingsage.github.io${NC}"
 echo ""
 echo "---------------------------------------------------------------------"
 echo ""
@@ -28,7 +28,7 @@ case "$check" in
 echo ""
 echo "Thank You For Using This Tool..!!!"
 echo ""
-echo -e "Visit ${RED}https://linktr.ee/thehackingsage${NC} for More..!!!"
+echo -e "Visit ${RED}https://github.com/thehackingsage${NC} for More..!!!"
 echo ""
 exit 1
 ;;
